@@ -1,3 +1,9 @@
+# Parker's Reactjack (Blackjack in React)
+
+In my learning of Javascript, I have made a Blackjack game every step of the way: first, I made Blackjack in vanilla JavaScript, then I made Blackjack in Typescript. 
+
+Recently, I realized that I had not made a Blackjack game in React, so this project is a remedy to that tragic gap in my series of Blackjack games. This project is a simple React Blackjack game built with Create React App and TypeScript. Enjoy!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
